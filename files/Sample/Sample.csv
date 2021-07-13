@@ -5,15 +5,15 @@
 "[Test Run]","N"
 
 "[Browsers]","[Browser Name]","[Browser Selection]"
-,"MicroSoft Edge","N"
-,"Chrome","Y"
-,"Internet Explorer","N"
-,"Firefox","N"
-,"Safari","N"
-,"MOBILE","N"
+"","MicroSoft Edge","N"
+"","Chrome","Y"
+"","Internet Explorer","N"
+"","Firefox","N"
+"","Safari","N"
+"","MOBILE","N"
 
 "[Test Steps]","[Step]","[Page]","[Object]","[Action]","[Command]","[Screenshot]","[OnPass]","[OnFail]"
-,"1","Generic","Generic","setCellContent","C:\Users\manish.a.pal\Desktop\Sample.xlsx|Sheet1|1|1|6/24/2021","N","2","2"
+"","1","Generic","Generic","setCellContent","C:\Users\manish.a.pal\Desktop\Sample.xlsx|Sheet1|1|1|6/24/2021","N","2","2"
 
-"[Data Sheet]","[DS_OS]","[DS_BROWSER]","[DS_ID]","[DS_FLAG]","[DS_DESC]","[DS_TAGS]","[DS_TMID]"
-,"ANY","Chrome","001","Y",,,
+"[Data Sheet]","[DS_OS]","[DS_BROWSER]","[DS_ID]","[DS_FLAG]","FLAG","[DS_DESC]","[DS_TAGS]","[DS_TMID]"
+,"ANY","Chrome","001","Y",""
