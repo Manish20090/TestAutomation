@@ -27,7 +27,7 @@
 "[Module Steps]","[Step]","[Page]","[Object]","[Action]","[Command]","[Screenshot]","[OnPass]","[OnFail]"
 ,"1","ForAgentsOnly.com Log In","Browser","OpenURL","https://75.qa.foragentsonly.com/login/","N","2","72"
 ,"2","ForAgentsOnly.com Log In","txt User ID / Agent Code","setText","43786","N","3","72"
-,"3","ForAgentsOnly.com Log In","Pwd User Password","setText","Flour2","N","4","72"
+,"3","ForAgentsOnly.com Log In","Pwd User Password","setText","Flour1","N","4","72"
 ,"4","ForAgentsOnly.com Log In","btn Log In","Click","Execute","N","5","72"
 ,"5","ForAgentsOnly.com - Home","SelectState","selectItem","{ds=y;State}","N","6","72"
 ,"6","ForAgentsOnly.com - Home","btn Select Product(s)","Click","Execute","N","7","72"
