@@ -1,17 +1,17 @@
-#Thu Jul 22 14:13:21 IST 2021
+#Thu Jul 22 14:15:21 IST 2021
 database=db_sqls.csv
-file_1=files/Sample12/Test23.csv
-file_10=files/Sample/Test11111.csv
-file_11=files/Sample/Multi_Iteration.csv
-file_12=files/Version1/TestVersion1.csv
-file_13=files/Sample11/Test12.csv
-file_2=files/VersionControll/Test.csv
-file_3=files/Sample/TestingVersionControll.csv
-file_4=files/Sample/sample32.csv
-file_5=files/Sample/abcd.csv
-file_6=files/Sample/Sample22.csv
-file_7=files/Sample/Test.csv
-file_8=files/Sample/TestingDemo123.csv
-file_9=files/Sample/Sample.csv
+file_1=files/Version1/TestVersion1.csv
+file_10=files/Sample/abcd.csv
+file_11=files/Sample/sample32.csv
+file_12=files/Sample/TestingVersionControll.csv
+file_13=files/VersionControl1/test1234.csv
+file_2=files/Sample12/Test23.csv
+file_3=files/VersionControll/Test.csv
+file_4=files/Sample11/Test12.csv
+file_5=files/Sample/TestingDemo123.csv
+file_6=files/Sample/Test11111.csv
+file_7=files/Sample/Sample22.csv
+file_8=files/Sample/Sample.csv
+file_9=files/Sample/Multi_Iteration.csv
 repository=repository.csv
 reusable=reusable.csv
